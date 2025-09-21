@@ -14,10 +14,10 @@ This project was developed as part of my internship, focusing on SQL and Power B
 
 # 🛠 Tools & Technologies
 
-SQL
+* SQL
 
-Power BI
+* Power BI
 
-Google Forms Automation
+* Google Forms Automation
 
-Data Visualization & Business Intelligence
+* Data Visualization & Business Intelligence
